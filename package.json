@@ -1,0 +1,28 @@
+{
+  "name": "christina-starr-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChristinaStarr19/christina-starr-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChristinaStarr19/christina-starr-website/issues"
+  },
+  "homepage": "https://github.com/ChristinaStarr19/christina-starr-website#readme",
+  "dependencies": {
+    "dotenv": "^11.0.0",
+    "express": "^4.17.2",
+    "if-env": "^1.0.4",
+    "mongoose": "^6.1.6",
+    "path": "^0.12.7"
+  }
+}
